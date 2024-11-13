@@ -188,7 +188,8 @@ plt.axis('off')
 plt.title('Detected Objects')
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/66451ac2-5dc2-45ad-b7dc-70fec92bac2e)
+![image](https://github.com/user-attachments/assets/313a6592-03ee-4a74-9888-57411fdbd54f)
+
 
 
 
