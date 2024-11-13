@@ -98,10 +98,8 @@ def detect_handwriting(image_path):
 image_path = 'handwriting.jpg'
 detect_handwriting(image_path)
 ```
-![image](https://github.com/user-attachments/assets/fa631091-dcf7-4a4c-9118-0cee2d23ebeb)
 
-
-
+![image](https://github.com/user-attachments/assets/6b5304e7-af4a-4c28-8c59-92ba3aa78030)
 
 ## III)Perform object detection with label in an image
 ### Step1:
